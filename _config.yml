@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 1
+name: babeetown
 opengraph:
   image: null
   type: null
@@ -12,29 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2076224642805755
+    permalink:
+      path: '/:title/'
+purpose: []
+typography_spectrum: 0.434479
+color:
+  saturation: 1
+  brandStrength: 0.9489796
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#F9D0AA'
+    - '#1F0302'
+    - '#A4DFE8'
+    - '#6EBC94'
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
   domain: null
-color:
-  saturation: 0.2451145756058395
-  brandStrength: 0.2628481991123408
-  rhythmicContrast: 0.8101648245938122
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  lightness: 0.2245499663986266
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: babeetown
-typography_spectrum: 0.7347663023974746
