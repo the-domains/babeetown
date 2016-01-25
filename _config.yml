@@ -1,28 +1,40 @@
-name: babeetown
-favicon: null
-layout_spectrum: 0.2076224642805755
-typography_spectrum: 0.7347663023974746
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.2076224642805755
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.2451145756058395
+  brandStrength: 0.2628481991123408
+  rhythmicContrast: 0.8101648245938122
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.2628481991123408
-  lightness: 0.22454996639862657
-  saturation: 0.2451145756058395
-  rhythmicContrast: 0.8101648245938122
+  lightness: 0.2245499663986266
 purpose: []
+favicon: null
+name: babeetown
+typography_spectrum: 0.7347663023974746
