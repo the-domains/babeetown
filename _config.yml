@@ -1,7 +1,7 @@
 name: BABEETOWN
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.09063
+layout_spectrum: 1
+typography_spectrum: 0.61732
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#F9D0AA'
-    - '#1F0302'
-    - '#A4DFE8'
-    - '#6EBC94'
-  brandStrength: 0.5440387
-  lightness: 0.5625
-  saturation: 0.4398496
-  rhythmicContrast: 0.5042965
+    - '#ffffff'
+    - '#f69576'
+    - '#936546'
+    - '#6eba95'
+    - '#0f96c4'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
